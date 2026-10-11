@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Fish and Chips</title>
+
+    <style>
+        body {
+            background-color: #F5F0E6;
+            color: #263746;
+            font-family: Georgia, serif;
+            margin: 30px;
+        }
+
+        h1 {
+            color: #263746;
+            font-size: 40px;
+        }
+
+        h2 {
+            color: #A65E32;
+        }
+
+        img {
+            width: 100%;
+            max-width: 600px;
+            height: 280px;
+            object-fit: cover;
+        }
+
+        section {
+            margin-bottom: 20px;
+        }
+
+        details {
+            background-color: #FFFDF8;
+            padding: 15px;
+            margin-bottom: 12px;
+        }
+
+        summary {
+            color: #263746;
+            cursor: pointer;
+            font-weight: bold;
+        }
+    </style>
+</head>
+
+<body>
+
+    <h1>Fish and Chips</h1>
+
+    <img src="https://www.daringgourmet.com/wp-content/uploads/2019/08/Fish-and-Chips-1.jpg">
+
+    <section>
+        <details>
+            <summary>Fish</summary>
+
+            <img src="https://www.daringgourmet.com/wp-content/uploads/2019/08/Fish-and-Chips-2.jpg"
+                 alt="Beer-battered fish">
+
+            <h2>Ingredients</h2>
+            <p>1 cup all-purpose flour</p>
+            <p>1 teaspoon baking powder</p>
+            <p>1 teaspoon salt</p>
+            <p>1 1/4 cups light beer, very cold</p>
+            <p>Extra flour for dredging, chilled</p>
+            <p>1 1/2 pounds fresh cod, haddock, or halibut, cut into 4 pieces and patted dry</p>
+            <p>Oil for frying</p>
+
+            <h2>Instructions</h2>
+            <p>Combine the flour, baking powder, and salt in a large flat bowl. Pour in the cold beer and whisk until smooth. Use the batter immediately.</p>
+            <p>In another large flat bowl, add some extra flour for dredging.</p>
+            <p>Blot the fish with paper towels to remove excess moisture. Thoroughly coat all sides of the fish in flour and shake off the excess.</p>
+            <p>Dip the fish into the beer batter to coat all sides, allowing some excess batter to drip off.</p>
+            <p>Heat oil to between 350°F and 375°F. Carefully lower the fish into the oil, waiting a few seconds before releasing it.</p>
+            <p>Fry for 5–8 minutes in a deep fryer, or about 2 minutes on each side in a frying pan, until golden.</p>
+            <p>Remove the fish with a slotted spoon. Let the oil drain, place the fish on paper towels briefly, and serve immediately.</p>
+        </details>
+    </section>
+
+    <section>
+        <details>
+            <summary>Chips</summary>
+
+            <img src="https://www.daringgourmet.com/wp-content/uploads/2019/08/Fish-and-Chips-3.jpg"
+                 alt="Golden chips">
+
+            <h2>Ingredients</h2>
+            <p>4 large Russet potatoes, or another high-starch, low-moisture potato</p>
+            <p>Salt for sprinkling</p>
+            <p>Oil for frying</p>
+
+            <h2>Instructions</h2>
+            <p>Peel the potatoes and slice them thickly. Place them in a large bowl of cold water until ready to fry.</p>
+            <p>Heat the oven to 200°F. Heat the oil in a deep fryer or a large heavy pan until it reaches 325°F.</p>
+            <p>Drain the potatoes thoroughly and blot them with paper towels to remove excess water.</p>
+            <p>Fry the potatoes in small batches for 2–3 minutes until pale and softened.</p>
+            <p>Remove the potatoes with a slotted spoon and let them cool to room temperature.</p>
+            <p>Increase the oil temperature to 375°F. Fry the potatoes again in small batches for another 2–3 minutes, until golden.</p>
+            <p>Remove the chips, sprinkle with salt while hot, and keep them in the warmed oven while frying the fish.</p>
+        </details>
+    </section>
+
+    <section>
+        <details>
+            <summary>Put together &amp; enjoy</summary>
+
+            <img src="https://www.daringgourmet.com/wp-content/uploads/2019/08/Fish-and-Chips-1.jpg"
+                 alt="Fish and chips served together">
+
+            <h2>To Serve</h2>
+            <p>Serve the fried fish with the chips.</p>
+            <p>Sprinkle quality British malt vinegar over the fish and chips.</p>
+            <p>If desired, serve with British mushy peas or tartar sauce.</p>
+            <p>Serve immediately while the fish is hot and crispy.</p>
+        </details>
+    </section>
+
+</body>
+</html>
